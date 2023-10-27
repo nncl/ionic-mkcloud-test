@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817229765487",
+    "project_id": "io-ionic-starter-nncl-second",
+    "storage_bucket": "io-ionic-starter-nncl-second.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817229765487:android:6d6affeb5435c2c10d269a",
+        "android_client_info": {
+          "package_name": "io.ionic.starter.testnnclsecond"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb61rQZ7I7TltW2fEvheTQerlvLIE5ppk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

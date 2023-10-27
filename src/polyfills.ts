@@ -53,3 +53,11 @@ import 'zone.js';  // Included with Angular CLI.
 /***************************************************************************************************
  * APPLICATION IMPORTS
  */
+
+import "core-js/actual/array";
+
+import "core-js/actual/object";
+
+import "core-js/actual/queue-microtask";
+
+import "globalthis/auto";

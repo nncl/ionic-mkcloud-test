@@ -1,0 +1,7 @@
+{
+  "name": "test-notifications-salesforce-mkcloud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
